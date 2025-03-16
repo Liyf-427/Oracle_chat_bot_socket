@@ -24,3 +24,8 @@ Important: The environment name inside the bat file must be updated based on the
 📌 Notes
 Ensure that all dependencies and the required environment are properly configured before execution.
 The project uses socket programming for client-server communication.
+
+Contribution:
+            Yifei Li : server&client, Function A, readme file
+            Chenggeng Hu : Function B train,modelling,verify,calling function
+            Peiqi Xu : Function C train,modelling,verify
