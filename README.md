@@ -27,5 +27,5 @@ The project uses socket programming for client-server communication.
 
 Contribution:
             Yifei Li : server&client, Function A, readme file
-            Chenggeng Hu : Function B train,modelling,verify,calling function
+            Cheng-Hsuan Hu : Function B train,modelling,verify,calling function
             Peiqi Xu : Function C train,modelling,verify
